@@ -1,29 +1,33 @@
-## Hi there 👋
-# 👋 Hi, I'm Ch. Santhi Sri!
+ 👋 Hi, I'm Ch. Santhi Sri!
 
-🎓 I'm a B.Sc. Agriculture student passionate about technology, data science, and innovation in agriculture.  
-🌱 I recently completed my internship at **Labmentix**, where I worked on exciting data projects:
-
-- 📊 [PhonePe Transaction Analysis](https://github.com/challasanthisri123-bit/PhonePe-Transaction-Analysis)
-- 🎬 [Netflix Recommendation System](https://github.com/challasanthisri123-bit/Netflix-Recommendation-System)
+🎓 **B.Sc. Agriculture Student** at Guru Kashi University, Punjab  
+🌱 Interested in **AI, Data Science, and Agricultural Technology**  
+💡 Passionate about learning and applying data-driven solutions in agriculture.  
+💻 Currently exploring: *Machine Learning, Streamlit Apps, and Agricultural Data Analysis*
 
 ---
 
-### 🧠 Skills & Tools
-- Python | Pandas | NumPy | Google Colab  
-- PowerPoint (Data Visualization & Presentations)  
-- Machine Learning (Beginner)  
-- Loom (for video explanations)
+🚀 Projects
+🔹 [PhonePe Transaction Analysis](https://github.com/challasanthisri123-bit/PhonePe-Transaction-Analysis)  
+🔹 [Netflix Recommendation System](https://github.com/challasanthisri123-bit/Netflix-Recommendation-System)
 
 ---
 
-### 🌐 Connect with Me
-- 💼 [LinkedIn](your-linkedin-link-here)
-- 🧠 [GitHub Projects](https://github.com/challasanthisri123-bit)
+ 🛠️ Tech Skills
+- Programming: Python, SQL  
+- Data Tools: Pandas, Matplotlib, Streamlit  
+- Other Interests: Agronomy, Entomology, Research
 
 ---
 
-⭐ *Currently learning AI and Data Science for Agriculture and working towards future opportunities in research and technology!*
+ 📫 Connect with me
+🌐 [LinkedIn]linkedin.com/in/challa-santhi-sri-482929304  
+📧 challasanthisri123@gmail.com  
+
+---
+
+⭐ *“Learning every day and growing with curiosity.”*
+
 
 <!--
 **challasanthisri123-bit/challasanthisri123-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
